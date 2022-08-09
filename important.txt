@@ -1,0 +1,3 @@
+if you run project AppDating you should download two file 
+1- client => angulare
+2- API => asp dotnet core 
